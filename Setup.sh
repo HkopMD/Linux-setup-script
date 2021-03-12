@@ -26,7 +26,7 @@ sudo apt install firejail -y
 
 sudo apt install git -y
 
-wget https://github.com/HkopMD/Dump/raw/main/Windows-10-Dark-3.2-dark.zip
+wget https://github.com/HkopMD/Linux-setup-script/raw/Dump/Windows-10-Dark-3.2-dark.zip
 
 git clone https://github.com/pop-os/icon-theme pop-icon-theme
 
